@@ -20,8 +20,8 @@ module.exports = {
         Öncelikle [Main Sunucumuza](https://discord.gg/perla) gelmeniz gerekmektedir. Daha sonra \`/mesaj\` komutunu kullanarak giriş yapabilirsiniz.
 
         \`Ekibimiz:\`
-        Geliştirici & Kurucu: [Atahan#8888](https://discord.com/users/783759784306147340) ([Github](https://github.com/AtahanYLDZ))
-        Kurucu: [Hoster#1000](https://discord.com/users/854747242200170548)
+        Geliştirici & Kurucu: [atahanyldz / Atahan#8888](https://discord.com/users/783759784306147340) ([Github](https://github.com/AtahanYLDZ))
+        Kurucu: [hosterdrake / Hoster#1000](https://discord.com/users/854747242200170548)
 
         \`Sunucularımız:\`
         [Main Sunucu](https://discord.gg/perla)
