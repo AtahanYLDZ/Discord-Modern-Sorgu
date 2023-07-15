@@ -1,0 +1,23 @@
+{
+  "name": "yeni-sorgu-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "atahan.js",
+  "scripts": {
+    "start": "node atahan.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^2.3.1",
+    "discord.js": "^14.8.0",
+    "glob": "^10.2.6",
+    "moment": "^2.29.4",
+    "mongoose": "^7.0.4",
+    "node-fetch": "^3.3.1",
+    "qrcode": "^1.5.3",
+    "speakeasy": "^2.0.0",
+    "table": "^6.8.1"
+  }
+}

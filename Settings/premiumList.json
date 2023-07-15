@@ -1,0 +1,17 @@
+[
+    {
+        "name": "PREMIUM", "dayPrice": 3.3
+    },
+    {
+        "name": "PREMIUM+", "dayPrice": 5
+    },
+    {
+        "name": "VIP", "dayPrice": 8.3
+    },
+    {
+        "name": "VIP+", "dayPrice": 10
+    },
+    {
+        "name": "FREE1GUN", "dayPrice": 0
+    }
+]

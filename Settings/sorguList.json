@@ -1,0 +1,62 @@
+[
+    {
+        "premiumType": ["FREE"], "value": "ADSOYAD", "description": "Ad Soyad ile kimlik bilgisi sorgulama.", "active": true
+    },
+    {
+        "premiumType": ["VIP","VIP+","PANEL"], "value": "AD", "description": "Sadece Ad ile kimlik bilgisi sorgulama.", "active": true
+    },
+    {
+        "premiumType": ["VIP","VIP+","PANEL"], "value": "SOYAD", "description": "Sadece Soyad ile kimlik bilgisi sorgulama.", "active": true
+    },
+    {
+        "premiumType": ["FREE"], "value": "TCKN", "description": "T.C. Kimlik Numarası ile kimlik bilgisi sorgulama.", "active": true
+    },
+    {
+        "premiumType": ["PREMIUM","PREMIUM+","VIP","VIP+"], "value": "TCKNPRO", "description": "T.C. Kimlik Numarası ile kimlik bilgisi sorgulama.", "active": true
+    },
+    {
+        "premiumType": ["FREE"], "value": "AILE", "description": "T.C. Kimlik Numarası ile Aile bilgisi sorgulama.", "active": true
+    },
+    {
+        "premiumType": ["FREE"], "value": "SULALE", "description": "T.C. Kimlik Numarası ile Sülale bilgisi sorgulama.", "active": true
+    },
+    {
+        "premiumType": ["FREE"], "value": "TCGSM", "description": "T.C. Kimlik Numarası ile GSM bilgisi sorgulama.", "active": true
+    },
+    {
+        "premiumType": ["FREE"], "value": "GSMTC", "description": "GSM Numarası ile T.C. Kimlik bilgisi sorgulama.", "active": true
+    },
+    {
+        "premiumType": ["PREMIUM","PREMIUM+","VIP","VIP+"], "value": "EOKUL", "description": "T.C. Kimlik Numarası ile E-Okul bilgisi sorgulama.", "active": true
+    },
+    {
+        "premiumType": ["PREMIUM","PREMIUM+","VIP","VIP+"], "value": "AOLVESIKA", "description": "T.C. Kimlik Numarası ile AÖL ve Sınav bilgisi sorgulama.", "active": true
+    },
+    {
+        "premiumType": ["PREMIUM","PREMIUM+","VIP","VIP+"], "value": "EHLIYET", "description": "T.C. Kimlik Numarası ile Ehliyet bilgisi sorgulama.", "active": true
+    },
+    {
+        "premiumType": ["PREMIUM","PREMIUM+","VIP","VIP+"], "value": "UNIVERSITE", "description": "T.C. Kimlik Numarası ile Üniversite bilgisi sorgulama.", "active": true
+    },
+    {
+        "premiumType": ["PREMIUM","PREMIUM+","VIP","VIP+"], "value": "IKAMETGAH", "description": "T.C. Kimlik Numarası ile İkametgah bilgisi sorgulama.", "active": true
+    },
+    {
+        "premiumType": ["PREMIUM","PREMIUM+","VIP","VIP+"], "value": "ILAC", "description": "T.C. Kimlik Numarası ile İlaç bilgisi sorgulama.", "active": true
+    },
+    {
+        "premiumType": ["PREMIUM","PREMIUM+","VIP","VIP+"], "value": "MUAYENE", "description": "T.C. Kimlik Numarası ile Muayene bilgisi sorgulama.", "active": true
+    },
+    {
+        "premiumType": ["PREMIUM","PREMIUM+","VIP","VIP+"], "value": "RAPOR", "description": "T.C. Kimlik Numarası ile Rapor bilgisi sorgulama.", "active": true
+    },
+    {
+        "premiumType": ["PREMIUM","PREMIUM+","VIP","VIP+"], "value": "SIGORTA", "description": "T.C. Kimlik Numarası ile Sigorta bilgisi sorgulama.", "active": true
+    },
+    {
+        "premiumType": ["VIP","VIP+"], "value": "PLAKA", "description": "Plaka ile araç ve sahip bilgisi sorgulama.", "active": true
+    },
+    {
+        "premiumType": ["FREE"], "value": "TEMIZLE", "description": "Seçimi temizle.", "active": true
+    }
+]
