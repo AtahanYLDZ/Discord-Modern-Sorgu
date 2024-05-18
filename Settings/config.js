@@ -1,12 +1,12 @@
 ﻿module.exports = {
 
-    token: "MTExODg0MDM1MDIyMDQ4NDY0OA.GExVeU.HK0NnXd4zKz9xIXA0BhWbCZalEM9tp2i_yeRMo", //Bot tokeni
-    token2: "MTExMzc2OTUyMjY4MDMxMTg2OA.GURvKB.6NEmXGY3x-sOL789sLEgp-9chI2tlK0poSPZ5s", //Bot tokeni 2
+    token: "", //Bot tokeni
+    token2: "", //User tokeni
     owners: ["AtahanYLDZ","PERLA"],
     admins: ["AtahanYLDZ","PERLA","crownes","Hoster","lucifer"],
     vanityURL: "perla", //Vanity url
     guildID: "1017701441529450526",
-    guildWhitelist: ["1116791756911030463","1025749534481068052","1118835933291233371"],
+    guildWhitelist: [],
     parentId: "1113935139874025524",
     sorguhak: 20,
     boosterRole: "1020674364217245818",
@@ -72,7 +72,7 @@
 
     database: {
 
-        mongoURI: "mongodb+srv://atahanbabba:hosterisikimamk3187@cluster0.x0ddp65.mongodb.net/sorgu?retryWrites=true&w=majority", //MongoDB bağlantı adresi
+        mongoURI: "", //MongoDB bağlantı adresi
         options: {
            useNewUrlParser: true,
            useUnifiedTopology: true,
